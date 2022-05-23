@@ -1,6 +1,5 @@
 # DETECTING BENIGN OR MALIGNANT MELANOMA USING DEEP LEARNING
 
-----
 ### About the project
 
 Using a 10,000 image dataset of benign and malignant melanoma cells, we attempt to explore different methodologies of classifying using Deep Learning
